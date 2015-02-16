@@ -1,4 +1,4 @@
 
 public class Git {
-private String ooops2;
+private String ooops;
 }
